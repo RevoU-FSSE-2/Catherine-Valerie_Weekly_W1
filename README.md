@@ -16,8 +16,11 @@ Here are the details of my Repository files:
 ![CSS Code](Photos/CSS.png)
 
 3. **JavaScript**: to make the website interactive, I'm adding the interaction in the "Surprise me!" button using JavaScript.
+
 ![JavaScript Code](Photos/JavaScript.png)
 
-[Click Here](https://catherine-week1-assignment.netlify.app) to see the result
+Here is the screenshot of my website.
 ![Website Result](Photos/website.png)
- 
+ You can interact with my website by[Clicking Here](https://catherine-week1-assignment.netlify.app)
+
+ Thank you for reading! 
